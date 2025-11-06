@@ -1,8 +1,29 @@
-# Web-Development
-Demo repository for Web Development domain in IT Solutions Portfolio.
+# Web Development Repositories
 
-## Files
-- Web-Development smaple.zip — Project overview and details.
+This repository contains sample web development resources such as templates, frameworks, and project ZIP files.  
+All materials are provided for learning and demonstration purposes.
 
-## Version
-v1.0
+---
+
+## 📘 Contents
+- **overview.pdf** — Documentation or technical overview  
+- **templates.zip** — Sample project or template bundle  
+
+---
+
+## 🌐 Domain
+**Web Development**
+
+---
+
+## 🏷️ Tags
+Web Development, Front-End, Full Stack, Templates, Frameworks
+
+---
+
+## 📜 License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Version:** 1.0.0  |  **Date:** November 2025
